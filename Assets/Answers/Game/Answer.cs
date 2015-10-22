@@ -1,6 +1,4 @@
-﻿// http://answers.unity3d.com/questions/1085032/
-
-namespace Answers.mcjodef
+﻿namespace Answers.mcjodef
 {
     using UnityEngine;
     using System;

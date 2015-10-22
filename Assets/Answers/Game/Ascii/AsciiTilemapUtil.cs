@@ -1,6 +1,4 @@
-﻿// http://answers.unity3d.com/questions/1085032/
-
-namespace Answers.mcjodef.AsciiTiles
+﻿namespace Answers.mcjodef.AsciiTiles
 {
     using UnityEngine;
 
@@ -15,7 +13,7 @@ namespace Answers.mcjodef.AsciiTiles
             {
                 for (int x = 0; x < asciiTilemap.Width; ++x)
                 {                    
-                    asciiTilemap.SetTile(x, y, AsciiTile.Y);
+                    asciiTilemap.SetTile(x, y, AsciiTile.Wall);
                     if (y > 0 & y < asciiTilemap.Height - 1)
                     {
                         if (x > 0 & x < asciiTilemap.Width - 1)
