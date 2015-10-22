@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3c84304f85e0bae49b655b5679448828
+timeCreated: 1445523252
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - spriteMaterial: {instanceID: 0}
+  - grassSprite: {instanceID: 0}
+  - stoneSprite: {instanceID: 0}
+  - wallSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
